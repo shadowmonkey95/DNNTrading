@@ -1,0 +1,7 @@
+pip
+pandas
+numpy
+matplotlib
+tpqoa
+tensorflow
+keras
